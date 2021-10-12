@@ -11,6 +11,7 @@ class Simple {
     public:
     Simple(){
         cout << "in Simple::Simple()" << endl;
+    }
 
 };
 
